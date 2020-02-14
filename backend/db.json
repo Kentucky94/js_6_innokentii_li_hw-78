@@ -1,0 +1,48 @@
+[
+  {
+    "author": "Someone",
+    "message": "Some message",
+    "image": "oghPDcOgF90dg_O1J6eFj.jpg",
+    "id": "mmR_dbgGm6cTnXnkmIk9j"
+  },
+  {
+    "author": "Someone",
+    "message": "Some message again",
+    "image": "MPCqwfutetvywakCL9Yng.jpg",
+    "id": "leeItbTvBbfwdtdy2-9pe"
+  },
+  {
+    "author": "Someone",
+    "image": "",
+    "message": "Some message again",
+    "id": "__3PPBmV8QwWPYRJB12Q_"
+  },
+  {
+    "author": "Someone",
+    "message": "Some message again again",
+    "image": "zSnAxMR2x4j4VtI2DOKbN.jpg",
+    "id": "S05jJ72E_Y3IgUo9FyXhj"
+  },
+  {
+    "author": "",
+    "message": "dsbfhd",
+    "image": "lFEWym8S2hB_mMFCaf-tL.jpg",
+    "id": "RO5OdtAse9A4caM4A6I36"
+  },
+  {
+    "author": [
+      "",
+      "Anonymous"
+    ],
+    "image": "",
+    "message": "Some message",
+    "id": "jG2IbNJGv1YIPJHXSECTH"
+  },
+  {
+    "author": "Someone else",
+    "message": "Some message again again blabla",
+    "showImage": "true",
+    "image": "f8iJeyV0YDnzLLo2amCj1.jpg",
+    "id": "D27e0xsVotx3GmheayjaL"
+  }
+]

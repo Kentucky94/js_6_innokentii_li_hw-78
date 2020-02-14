@@ -6,7 +6,6 @@ class InputBlock extends Component {
     author: '',
     image: '',
     message: '',
-    showImage: true,
   };
 
   inputChangeHandler = event => {
